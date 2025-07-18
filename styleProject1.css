@@ -20,11 +20,8 @@
     width:100px;
 }
 
-
-
-
 .logo {
-    background-image:url(../amazon_logo.png.jpg);
+    background-image:url(amazon_logo.png.jpg);
     background-size: cover;
     background-color: #0F1111;
     height: 70px;
@@ -144,7 +141,7 @@
     margin-left: 15px;
 }
 .hero-section {
-    background-image: url(../Kurtas_PC-1._CB789976979_.jpg);
+    background-image: url(Kurtas_PC-1._CB789976979_.jpg);
     background-size: cover;
     height: 600px;
    
@@ -407,7 +404,7 @@
 }
 
 .logo1 {
-    background-image:url(../amazon_logo.png.jpg);
+    background-image:url(amazon_logo.png.jpg);
     background-size: cover;
     height: 80px;
     width: 150px; 
